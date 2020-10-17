@@ -3,6 +3,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Live Demo
 https://netflix-clone-7ace2.web.app/
 
+## App
+
+
 ## Available Scripts
 
 In the project directory, you can run:
