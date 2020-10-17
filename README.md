@@ -4,7 +4,19 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 https://netflix-clone-7ace2.web.app/
 
 ## App
+![](Img/netflix_1.png)
+ 
+				                 
 
+ ![](Img/netflix_2.png)
+ 
+				    	            
+![](Img/netflix_3.png)
+ 
+				                    
+
+ ![](Img/AdminPanelProfile's.png)
+ 
 
 ## Available Scripts
 
