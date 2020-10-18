@@ -1,6 +1,6 @@
 import React, {useState} from 'react';
-import requests from "./request";
-import './App.css';
+import requests from "../api/request";
+import '../public/css/App.css';
 import Row from "./Row";
 import Banner from "./Banner";
 import Nav from "./Nav";
